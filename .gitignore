@@ -1,0 +1,19 @@
+# Ignore virtual environment
+bitirme-venv/
+
+# Ignore Python cache files
+*.pyc
+__pycache__/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data files and large datasets (if applicable)
+events/
+
+
+viz.twb
+output.xlsx
+bitirme_test.db
+bitirme.db
+bitirme.db.wal
