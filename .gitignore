@@ -1,5 +1,5 @@
 # Ignore virtual environment
-bitirme-venv/
+.venv/
 
 # Ignore Python cache files
 *.pyc
@@ -14,6 +14,5 @@ events/
 
 viz.twb
 output.xlsx
-bitirme_test.db
-bitirme.db
-bitirme.db.wal
+example.db
+
