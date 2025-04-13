@@ -24,7 +24,7 @@ StatsBomb Open Data (2015–2016 La Liga season)
 
 ---
 
-## 🔧 Methods & Metrics
+## Methods & Metrics
 
 ### Data Preprocessing
 - Min-max scaling, log and Box-Cox transforms
