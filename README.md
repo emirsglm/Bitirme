@@ -1,7 +1,3 @@
-Aşağıda, PDF'teki bilgileri temel alarak GitHub’a uygun bir **README.md** taslağı oluşturdum. Ayrıca dosyada yer almayan ama genellikle README'de yer alması gereken bazı bölümler için öneriler de verdim.
-
----
-
 ## Football Network Analysis with Event Data
 
 This project explores **passing and foul networks** in football using **StatsBomb’s event data**. By applying network science, data transformations, and regression modeling, it evaluates how players influence offensive performance—both through passes and by being fouled.
